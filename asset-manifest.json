@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.f90b4b10.css",
-    "main.js": "/static/js/main.d1109c4d.js",
+    "main.css": "/static/css/main.e87f9fc2.css",
+    "main.js": "/static/js/main.f575d9f8.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
-    "static/media/venueVideoMobile.mp4": "/static/media/venueVideoMobile.42afbf5dd3e0164a34d9.mp4",
-    "static/media/rsvpPhoto.png": "/static/media/rsvpPhoto.6b3e4843bcaf38a17ef4.png",
-    "static/media/contactPhoto.png": "/static/media/contactPhoto.b2edb28541f552eaf07e.png",
+    "static/media/rsvpPhoto.jpeg": "/static/media/rsvpPhoto.c3e7dcdeef9a9d43d431.jpeg",
     "static/media/KannadaMN.ttc": "/static/media/KannadaMN.9f1f0b99b45966ade950.ttc",
+    "static/media/contactPhoto.jpeg": "/static/media/contactPhoto.2fafde8f4a7628e641ad.jpeg",
     "static/media/LeJourScript.ttf": "/static/media/LeJourScript.4ee0ce8ae7991acbce97.ttf",
     "static/media/NSmonogram.png": "/static/media/NSmonogram.08b4d843f279b65bfc42.png",
     "static/media/venueLogo.png": "/static/media/venueLogo.3bc5409e21e470d8bfb4.png",
     "index.html": "/index.html",
-    "main.f90b4b10.css.map": "/static/css/main.f90b4b10.css.map",
-    "main.d1109c4d.js.map": "/static/js/main.d1109c4d.js.map",
+    "main.e87f9fc2.css.map": "/static/css/main.e87f9fc2.css.map",
+    "main.f575d9f8.js.map": "/static/js/main.f575d9f8.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f90b4b10.css",
-    "static/js/main.d1109c4d.js"
+    "static/css/main.e87f9fc2.css",
+    "static/js/main.f575d9f8.js"
   ]
 }
