@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/static/css/main.568510f3.css",
-    "main.js": "/static/js/main.f575d9f8.js",
+    "main.js": "/static/js/main.33149f98.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/accommodationOptions.pdf": "/static/media/accommodationOptions.17a2af5c23979788037e.pdf",
     "static/media/rsvpPhoto.jpeg": "/static/media/rsvpPhoto.c3e7dcdeef9a9d43d431.jpeg",
     "static/media/KannadaMN.ttc": "/static/media/KannadaMN.9f1f0b99b45966ade950.ttc",
+    "static/media/bankingDetails.pdf": "/static/media/bankingDetails.d0a8e24f65db44babc46.pdf",
     "static/media/contactPhoto.jpeg": "/static/media/contactPhoto.2fafde8f4a7628e641ad.jpeg",
     "static/media/LeJourScript.ttf": "/static/media/LeJourScript.4ee0ce8ae7991acbce97.ttf",
     "static/media/NSmonogram.png": "/static/media/NSmonogram.08b4d843f279b65bfc42.png",
     "static/media/venueLogo.png": "/static/media/venueLogo.3bc5409e21e470d8bfb4.png",
     "index.html": "/index.html",
     "main.568510f3.css.map": "/static/css/main.568510f3.css.map",
-    "main.f575d9f8.js.map": "/static/js/main.f575d9f8.js.map",
+    "main.33149f98.js.map": "/static/js/main.33149f98.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.568510f3.css",
-    "static/js/main.f575d9f8.js"
+    "static/js/main.33149f98.js"
   ]
 }
