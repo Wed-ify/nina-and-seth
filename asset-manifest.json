@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.04329e2c.css",
+    "main.css": "/static/css/main.6b60c409.css",
     "main.js": "/static/js/main.bb72b221.js",
     "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
     "static/media/rsvpPhotoMedium.png": "/static/media/rsvpPhotoMedium.616ba034ef94c26a1c30.png",
@@ -13,12 +13,12 @@
     "static/media/NSmonogram.png": "/static/media/NSmonogram.08b4d843f279b65bfc42.png",
     "static/media/venueLogo.png": "/static/media/venueLogo.3bc5409e21e470d8bfb4.png",
     "index.html": "/index.html",
-    "main.04329e2c.css.map": "/static/css/main.04329e2c.css.map",
+    "main.6b60c409.css.map": "/static/css/main.6b60c409.css.map",
     "main.bb72b221.js.map": "/static/js/main.bb72b221.js.map",
     "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04329e2c.css",
+    "static/css/main.6b60c409.css",
     "static/js/main.bb72b221.js"
   ]
 }
